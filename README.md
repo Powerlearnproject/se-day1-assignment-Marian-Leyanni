@@ -25,22 +25,35 @@ The Waterfall methodolgy is better for projects with clear requirements and mini
 Agile is good for cases like construction projects and building payroll systems (where clear initial instructions are cruccial, and minimal change is expected.) On the other hand, Waterfall works for video game development and social media apps (where frequent change is expected and feedback plays a big role during implementation.)
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-A software developer writes 
-
+A software developer writes code and implements software solutions. 
+A quality assurance engineer ensures the software is quality by planning tests and executing them. 
+A project manager lastly, oversees the planning, execution and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+An Integrated Development Environment (IDE) is a software suite that ensures that a developer or software team can access all the tools they need for writing, editing, debugging and managing code in a single location. Examples of IDEs are Visual Studio Code, PyCharm and Eclipse.
+A Versio Control System (VCS) however is a software tool developers use to track and manage changes and contributions to their source code over time. Among other things, it allows for easier collaboration and rollback of changes. Examples are Git, GitHub and Bitbucket.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Imposter Syndrome: A good number of software engineers often feel they are not skilled or smart enough for the jobs they are doing. To solve this, engineers should keep track of past achievements, remind themselves that no one is perfect, and keep studying.
+Technical Debt: Engineers also sometimes have to deal with poor code quality and maintenace issues, due to a number of factors. To overcome this challenge, engineers must follow coding standards and best practices, prioritise tasks and test and improve software regularly.
+Changing Requirements: Project requirements sometimes change during development, leading to delays. To deal with this, team members must communicate effectively and use Agile methodologies like Scrum.
+Meeting tight deadlines: Projects can sometimes have very tight deadlines, requiring engineers to race against the clock to deliver. To manage this issue, they should establish project needs at the start, set realistic expectations and prioritize effectively.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit Testing involves testing individual components or modules of software.
+Integration Testing deals with testing interactions between different software components.
+System Testing refers to testing the entire software system as a whole.
+Acceptance Testing has to do with testing your product against requirements to ensure it meets user and busienss needs.
+All these testing types are quality control practices which are crucuial for identifying and fixing defects, and keeping the software protected and of top-notch quality.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering refers to the practice of crafting and refining statements or questions tp be put to Artificial Intelligence (AI), with the intention of getting the best possible results from them.
+Prompt engineering is important because it ensures that the AI properly understands you and provides the best possible response.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: Tell me about the stars.
+Improved Prompt: Tell me why stars seem white.
+The improved prompt is more effective because it is specific in its request about the colour of the stars, it is concise and to the point, as well as clear and easy to understand.
